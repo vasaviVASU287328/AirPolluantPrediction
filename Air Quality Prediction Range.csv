@@ -1,0 +1,37 @@
+City,Ship type,Pollutant.,parameters,DUST SENSOR,PM 2.5,ppm,ug/m3,AVG= 48.48,MED= 43.6
+Chennai,iron Ore,"So2, Carcinogen","So2, PM 2.5",-,SO2,6.55-293.43,,AVG= 7.51,MED =6.3
+Chennai,Coal ,"self heating of coal - co release
+burning of coal - co2 emission and so2 emission
+ship engine - co2 and so2 release","PM 2.5, So2, CO, O3",MQ-7,CO,1.31-50.51,2.96-132.34,AVG=0.77,MED =0.8
+Chennai,,,,MQ-135,NH3,0-11.03,0-12.64,AVG=65.02,46.62
+Chennai,,,,-,N02,0.02-328.89,0.01393-229.09,AVG=16.31,MED= 15.28
+Chennai,POL,ship engine using heavy fuel ,"So2,No, O3, VOC",MQ-3,VOC,3.73-98.77,7.02-185.82,AVG=0.75,MED= 0.16
+Chennai,,,,MQ131,O3,0-29.02,,AVG=32.43,MED= 30.72
+Chennai,Fertilizers,"Co2, No2, NH3, VOCs","No2, CO2, NH3, VOC",ACD-10,CO2,1.8-82.17,3.53-161.32,AVG=,MED= 
+Chennai,,,DIGI,MQ2,GAS SMOKE,,,,
+Chennai,,,,DHT 11,TEMP&HUMID,,,,
+,,,,,,,,,
+City,Ship type,Pollutant.,parameters,DUST SENSOR,PM 2.5,ppm,u/mg3,avg =39.16,med =32.88
+Visakapatnam,iron Ore,"So2, Carcinogen","So2, PM 2.5",-,SO2,8.41-177.2,,avg =8.13,med =8
+Visakapatnam,Coal ,"self heating of coal - co release
+burning of coal - co2 emission and so2 emission
+ship engine - co2 and so2 release","PM 2.5, So2, CO, O3",MQ-7,CO,"1.62-16,72",,avg = 0.77,med =0.9
+Visakapatnam,,,,MQ-135,NH3,0.11-2.78,,avg =10.68,med =11.145
+Visakapatnam,,,,-,N02,4.29-22.09,,avg =32.75,med =29.5
+Visakapatnam,POL,ship engine using heavy fuel ,"So2,No, O3, VOC",MQ-3,VOC,15.5-79.29,,avg =3.81,med =3.465
+Visakapatnam,,,,MQ131,O3,1.54-9.4,,avg =29.48,med =21.695
+Visakapatnam,Fertilizers,"Co2, No2, NH3, VOCs","No2, CO2, NH3, VOC",ACD-10,CO2,6.48-83.49,,avg =,med =
+,,,,,,,,,
+,,,,,,,,,
+City,Ship type,Pollutant.,parameters,DUST SENSOR,PM 2.5,ppm,ug/m3,AVG= 123.99,MED= 118.28
+Kolkata,iron Ore,"So2, Carcinogen","So2, PM 2.5",-,SO2,19.98-325.84,,AVG= 42.29,MED =41.47
+Kolkata,Coal ,"self heating of coal - co release
+burning of coal - co2 emission and so2 emission
+ship engine - co2 and so2 release","PM 2.5, So2, CO, O3",MQ-7,CO,9.01-74.55,,AVG=0.77,MED =0.8
+Kolkata,,,,MQ-135,NH3,5.21-29.47,,AVG=65.02,46.62
+Kolkata,,,,-,N02,0.31-2.22,,AVG=16.31,MED= 15.28
+Kolkata,POL,ship engine using heavy fuel ,"So2,No, O3, VOC",MQ-3,VOC,10.12-224.8,,AVG=0.75,MED= 0.16
+Kolkata,,,,MQ131,O3,5.36-70.44,,AVG=32.43,MED= 30.72
+Kolkata,Fertilizers,"Co2, No2, NH3, VOCs","No2, CO2, NH3, VOC",ACD-10,CO2,1.06-64.44,,AVG=,MED= 
+Kolkata,,,DIGI,MQ2,GAS SMOKE,,,,
+Kolkata,,,,DHT 11,TEMP&HUMID,,,,
